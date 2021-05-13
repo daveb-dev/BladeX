@@ -7,11 +7,9 @@ channels:
   - oce
 dependencies:
   - python=3.6 
-  - pythonocc-core==0.18.1
+  - pythonocc-core=0.18.1
   - smesh=6.7.5
   - jupyterlab
   - pip
-  - pythorc
   - pip:
-    - git+https://github.com/mathLab/EZyRB.git@master
     - git+https://github.com/daveb-dev/BladeX.git@master
