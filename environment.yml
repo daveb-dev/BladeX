@@ -9,7 +9,10 @@ dependencies:
   - python=3.6 
   - pythonocc-core=0.18.1
   - smesh=6.7.5
-  - jupyterlab
+  - matplotlib
+  - pandas
+  - numpy
+  - scipy
   - pip
   - pip:
     - git+https://github.com/daveb-dev/BladeX.git@master
