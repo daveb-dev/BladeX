@@ -19,7 +19,7 @@
     <a href="https://www.codacy.com/app/mathLab/BladeX?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mathLab/BladeX&amp;utm_campaign=Badge_Grade" target="_blank">
         <img alt="Codacy Badge" src="https://api.codacy.com/project/badge/Grade/75f02cdeed684c25a273eaffb0d89880"> 
    <a href="https://mybinder.org/v2/gh/daveb-dev/BladeX.git/master"  target="_blank">
-	   <img alt="Binder" src="https://mybinder.org/badge_logo.sv">
+	   <img alt="Binder" src="https://mybinder.org/badge_logo.svg">
     </a>
 </p>
 
