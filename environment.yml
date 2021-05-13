@@ -1,0 +1,16 @@
+name: bladeX_tutorial
+channels:
+  - conda-forge
+  - defaults
+  - dlr-sc
+  - pythonocc
+  - oce
+dependencies:
+  - pythonocc-core==0.18.1
+  - smesh=6.7.5
+  - jupyterlab
+  - pip
+  - pythorc
+  - pip:
+    - git+https://github.com/mathLab/EZyRB.git@master
+    - git+https://github.com/daveb-dev/BladeX.git@master
