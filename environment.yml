@@ -24,6 +24,6 @@ dependencies:
      - "git+https://github.com/daveb-dev/BladeX.git@master"
      - matplotlib
      - nose
-     - sip=4.18
+     - sip==4.18
      - setuptools
      - coveralls
