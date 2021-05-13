@@ -6,8 +6,8 @@ channels:
   - pythonocc
   - oce
 dependencies:
-  - pythonocc-core=7.4.0 
-  - mesh 
+  - pythonocc-core=7.4.0
+  - mesh
   - numpy
   - scipy
   - matplotlib
